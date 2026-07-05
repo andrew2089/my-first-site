@@ -1,0 +1,5 @@
+<svg viewBox="0 0 120 32" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <path d="M8 22c0-6 4-10 8-10s8 4 8 10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="16" cy="12" r="4" stroke="currentColor" stroke-width="1.5"/>
+  <text x="34" y="20" fill="currentColor" font-family="system-ui,sans-serif" font-size="13" font-weight="600" letter-spacing="0.05em">HARBOR</text>
+</svg>
